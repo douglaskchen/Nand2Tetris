@@ -12,17 +12,17 @@ PROJECTS
 Project 1:
 - Construct NAND gate with relays
 - Construct basic 1-16 bit logic gates using NAND gates
-    Not, And, Or, Xor, Mux, DeMux
+    - Not, And, Or, Xor, Mux, DeMux
 - Write Hack HDL for each logic gate
 
 Project 2:
 - Construct Arithmetic and Logic unit components using basic 1-16 bit logic gates
-    Half/Full Adder, Multibit Adder, Increment, Logic Unit, Arithmetic Unit, Complete ALU
+    - Half/Full Adder, Multibit Adder, Increment, Logic Unit, Arithmetic Unit, Complete ALU
 - Write Hack HDL for ALU and each component of ALU
 
 Project 3:
 - Construct combinational and sequential Memory components using basic 1-16 bit logic gates
-    SR/D Latches, Data Flip-Flop, 1-16 bit Registers, Counter, RAM
+    - SR/D Latches, Data Flip-Flop, 1-16 bit Registers, Counter, RAM
 - Write Hack HDL for RAM/Memory components
 
 Project 4: IN PROGRESS
