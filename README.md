@@ -3,7 +3,7 @@ My Nand2Tetris Journey :)
 
 Building a full fledged computer system to play tetris, starting from the most basic component: NAND gates
 
-I started this project in early Dec 2024 because I really wanted to understand how computers work with nothing but 1's, 0's and transistors.
+I started this project in early Dec 2024 because I really wanted to understand how computers actually do anything with 1's, 0's and transistors.
 
 I've really enjoyed the course so far and it has done so much to solidify my understanding of concepts learned in my
 digital systems, computer architecture, and microprocessor interfacing courses from my computer engineering undergrad.
