@@ -25,5 +25,7 @@ Project 3:
     - SR/D Latches, Data Flip-Flop, 1-16 bit Registers, Counter, RAM
 - Write Hack HDL for RAM/Memory components
 
-Project 4: IN PROGRESS
-- Getting acquanted and writing basic programs in Hack CPU assembly
+Project 4:
+- Develop two programs in HACK CPU assembly language
+- Fill.asm scans for keyboard input, if true then screen is set black, if no input then screen clears back to white
+- Mult.asm multiplies two inputs (held in R0 and R1) and places product in R2
