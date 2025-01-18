@@ -26,6 +26,6 @@ Project 3:
 - Write Hack HDL for RAM/Memory components
 
 Project 4:
-- Develop two programs in HACK CPU assembly language
+- Develop two programs in HACK CPU machine language
 - Fill.asm scans for keyboard input, if true then screen is set black, if no input then screen clears back to white
 - Mult.asm multiplies two inputs (held in R0 and R1) and places product in R2
